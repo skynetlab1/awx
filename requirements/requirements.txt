@@ -312,7 +312,7 @@ pyjwt==2.6.0
     #   django-ansible-base
     #   social-auth-core
     #   twilio
-pyopenssl==23.2.0
+pyopenssl==24.0.0
     # via
     #   -r /awx_devel/requirements/requirements.in
     #   twisted
